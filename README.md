@@ -1,4 +1,5 @@
 # weather_app
+![Image alt](https://github.com/usssuratonkachi/weather_app/blob/main/pictures/1.jpg) ![Image alt](https://github.com/usssuratonkachi/weather_app/blob/main/pictures/2.jpg) ![Image alt](https://github.com/usssuratonkachi/weather_app/blob/main/pictures/3.jpg)
 
 A new Flutter project.
 
